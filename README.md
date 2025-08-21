@@ -1,28 +1,29 @@
-# Aula sobre GitHub e Vercel
+# ✨ Aula sobre GitHub e Vercel ✨
+
 Repositório dedicado a apresentar as funcionalidades do Github e Vercel em uma aula para os alunos do instituto Proa.
-Espero que aproveitem ao máximo o conteúdo e dicas contidos dentro desse arquivo README.
+Espero que aproveitem ao máximo o conteúdo e dicas contidos dentro desse arquivo README.💖
 
-## Apresentação sobre a **Linguagem Markdown**
+## Apresentação sobre a **Linguagem Markdown** 📃
 
-### O que é?
-
+### O que é? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
 - É uma linguagem de marcação __simples__ criada com o intuito de facilitar a criação de textos utilizando HTML. O Markdown converte o texto simples em **HTML válido**, tornado a escrita simples e objetiva.
 - Ele permite que o usuário foque no conteúdo, evitando a preocupação em estruturar um código HTML.
 
-### Onde é utilizado?
+### Onde é utilizado? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" />
 
 - O Markdown é utilizado principalmente para formatar arquivos README, escrever mensagens em fóruns de discussão online.
 
-### Como posso utilizá-lo?
+### Como posso utilizá-lo? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" />
 
 Hoje é seu dia de sorte! Neste arquivo README você vai ter o `passo a passo` de como utilizar o Markdown para estruturar o seu README de forma fácil e rápida! Além disso irei disponibilizar os seguintes conteúdos:
 
 
-- Como criar um README organizado
-- Repositórios de apoio para criar um README
+- Como criar um README organizado <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium%20Skin%20Tone.png" alt="Writing Hand Medium Skin Tone" width="25" height="25" />
+- Repositórios de apoio para criar um README 🗃️
   
-_**Atenção é importante ressaltar que além do MarkDown o HTML para formatar READMEs é muito utilizado, usar um ou outro vai da preferência e custume de cada um!**_
-# Principais comandos MarkDown
+_**Atenção é importante ressaltar que além do MarkDown o HTML para formatar READMEs é muito utilizado, usar um ou outro vai da preferência e custume de cada um!**_ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" />
+
+# Principais comandos MarkDown<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="45" height="45" />
 
 ## Títulos:
 
@@ -110,13 +111,18 @@ Seção um
 Seção dois
 ---
 
-Esses foram os principais comandos você pode encontrar detalhes nos materiais abaixo:
+Esses foram os principais comandos você pode encontrar mais detalhes nos materiais abaixo:
 
-[Markdownguide](https://www.markdownguide.org/)
-[GuiaBasico](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+[Markdown Guide](https://www.markdownguide.org/)
+
+[Guia Basico](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
 [Artigo Alura](https://www.alura.com.br/artigos/como-trabalhar-com-markdown?srsltid=AfmBOopNPfO85S3TQfxKnxPdNaCv1romx7K6SuHsA1dKvuhl3JVLq0-V)
+
 [Como criar um bom Readme](https://www.makeareadme.com/)
+
 [Animação Readme](https://readme-typing-svg.herokuapp.com/demo/)
+
 [Cobrinha](https://www.youtube.com/watch?v=Sc3aNzYExbg)
 
 # Como Criar um README Organizado?
@@ -154,6 +160,6 @@ Criar um README organizado para o seu projeto e perfil é fundamental para garan
 [Streak](https://github.com/DenverCoder1/github-readme-streak-stats)
 [GitHub Stats 2](https://github.com/anuraghazra/github-readme-stats)
 
-## Bons Estudos!
+## Bons Estudos! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 Espero que aproveitem os recursos aqui apresentados e explorem o Github!
 Isso pode te fazer encontrar muito mais conteúdos como este!
