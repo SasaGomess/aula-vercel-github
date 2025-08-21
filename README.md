@@ -116,6 +116,8 @@ Esses foram os principais comandos você pode encontrar detalhes nos materiais a
 [GuiaBasico](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 [Artigo Alura](https://www.alura.com.br/artigos/como-trabalhar-com-markdown?srsltid=AfmBOopNPfO85S3TQfxKnxPdNaCv1romx7K6SuHsA1dKvuhl3JVLq0-V)
 [Como criar um bom Readme](https://www.makeareadme.com/)
+[Animação Readme](https://readme-typing-svg.herokuapp.com/demo/)
+[Cobrinha](https://www.youtube.com/watch?v=Sc3aNzYExbg)
 
 # Como Criar um README Organizado?
 
