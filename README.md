@@ -160,6 +160,28 @@ Criar um README organizado para o seu projeto e perfil é fundamental para garan
 [Streak](https://github.com/DenverCoder1/github-readme-streak-stats)
 [GitHub Stats 2](https://github.com/anuraghazra/github-readme-stats)
 
+## Convenções de commits
+
+**✅ feat→ Quando adicionamos um novo recurso ao código.**
+
+**🐛 fix→ Para corrigir um bug.**
+
+**🎨 style→ Alterações que não afetam a lógica do código (formatação, espaços, etc.).**
+
+**🔄 refactor→ Refatoração sem mudança de comportamento ou correção de bug.**
+
+**🧪 test→ Adicionando ou corrigindo testes.**
+
+**📄 docs→ Mudanças apenas na documentação.**
+
+**🛠 chore→ Atualizações de ferramentas, dependências ou scripts auxiliares.**
+
+**⚡ perf→ Melhorias de desempenho.**
+
+**🏗 build→ Mudanças no sistema de build ou dependências.**
+
+**🔧 ci→ Alterações em scripts de integração contínua.**
+
 ## Bons Estudos! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 Espero que aproveitem os recursos aqui apresentados e explorem o Github!
 Isso pode te fazer encontrar muito mais conteúdos como este!
